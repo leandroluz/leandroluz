@@ -11,14 +11,14 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-0a0a0a?style=flat&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/-CrewAI-0A0A0A?style=flat&logo=crewai&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-ef652a?style=flat&logo=n8n&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Unix](https://img.shields.io/badge/-Unix-0000FF?style=flat&logo=unix&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-00FF00?style=flat&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/-CrewAI-FF0000?style=flat&logo=crewai&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-ef652a?style=flat&logo=n8n&logoColor=white)
 
 ---
 
