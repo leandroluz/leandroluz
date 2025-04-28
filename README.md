@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=leandroluz&color=blueviolet)
 
 💻 Programador PHP | Python | Entusiasta de Inteligência Artificial  
-🛠️ Criador de projetos de automação e inovação digital.
+🛠️ Criador de soluções de automação e inovação digital.
 
 ---
 
@@ -11,14 +11,13 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Unix](https://img.shields.io/badge/-Unix-000000?style=flat&logo=unix&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-0a0a0a?style=flat&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/-CrewAI-0A0A0A?style=flat&logo=crewai&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-ef652a?style=flat&logo=n8n&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## 🛠️ Projetos em Destaque
-- [Adianti8 Docker](https://github.com/leandroluz/adianti8-docker) — Ambiente de desenvolvimento com Adianti Framework 8 e PostgreSQL.
-- [Rep-GPT Consultor PPESP](https://github.com/leandroluz/rep-gpt-consultor-ppesp) — Assistente inteligente para consulta de resoluções e decretos.
 
 ---
 
@@ -31,10 +30,10 @@
 ## 📚 Em Aprendizado:
 | Tecnologia | Progresso |
 | :--- | :--- |
-| Docker | ██████████ 90% |
-| Automação com IA | ████████░░ 80% |
-| APIs com Python | ███████░░░ 70% |
-| LangChain | ██████░░░░ 50% |
+| CrewAI | ███████░░░ 70% |
+| Swagger | ██████░░░░ 60% |
+| FastAPI | ██████░░░░ 60% |
+| N8N | ████████░░ 80% |
 
 ---
 
