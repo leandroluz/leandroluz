@@ -2,8 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=leandroluz&color=blueviolet)
 
-💻 Programador PHP | Python | Automação Inteligente | IA  
-🛠️ Criador de soluções digitais que unem tecnologia, inovação e performance.
+💻 Programador PHP | Python | Intusiasta de IA  
+🛠️ Policial Penal, Criador de soluções digitais que unem tecnologia, inovação e performance.
 
 ---
 
